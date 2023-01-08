@@ -24,5 +24,6 @@ int numberOfBoomerangs(vector<vector<int>> &points)
     return total;
 }
 int main(){
-
+    vector<vector<int>> A ={{ 0, 0 }, { 1, 0 }, { 2, 0 } };
+    cout << numberOfBoomerangs(A) << "\n";
 }
