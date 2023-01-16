@@ -1,0 +1,1 @@
+{"name":"Local: c1","url":"d:\\6Companies30days\\c1.cpp","tests":[{"id":1673774821291,"input":"3\n-1 0 3 4\n3 4 -4 -3\n8 -6 0 5","output":"BOB\nEQUAL\nALEX"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\6Companies30days\\c1.cpp","group":"local","local":true}
